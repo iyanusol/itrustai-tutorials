@@ -9,6 +9,12 @@ Natural Language Processing (NLP) is the field focusing on developing methods an
 
 ---
 
+## Language Identification
+|          | Category      | Descriptions | Link |
+|-------------|---|------------------------------|--------------------------------------|
+|1|Language Identification| Language identification from scratch with transformers|[notebook](langid/text_classification_transformer_from_scratch_pytorch.ipynb)|
+|2|Language Identification| Language identification with fairseq|[notebook](langid/I Trust AI char-level text classification tutorial.ipynb)|
+
 ## Part of Speech (POS) Tagging 
 |          | Category      | Descriptions | Link |
 |-------------|---|------------------------------|--------------------------------------|
